@@ -6,7 +6,7 @@ In the insurance industry, it is well-known that providing preventive healthcare
 
 ## Repository Structure
 1. All source data files are stored in the `data` folder in `.csv` format.
-2. All the code needed to produce the results is included in the comprehensive notebook titled `CapstoneScript.ipynb`
+2. All the code needed to produce the results is included in the comprehensive notebook titled `CapstoneScript.ipynb`.
 3. The final presentation is
 4. The final report is
 
