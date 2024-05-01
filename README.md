@@ -1,6 +1,6 @@
 # Capstone Project with Brown & Brown Insurance
 
-# Investigating Wellness and Rx Benefit Adherence Rates as Inputs for Forecasting Future Healthcare Insurance Claims Costs
+# Investigating Wellness and Rx Benefit Adherence as Inputs for Forecasting Future Healthcare Insurance Claims Costs
 
 
 ## Project Executive Summary
