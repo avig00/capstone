@@ -28,5 +28,6 @@ itertools
 ## Readability
 Docstrings and comments have been included in the notebook to explain the functions and key steps used to produce the results. 
 
-## Note about the Data Source
-The source of the data used for this project is the Benefits Science Technologies (BST) website. This is not a public website, and thus accessing the data harbored on the website requires special authorization.
+## Notes about the Data 
+* The source of the data used for this project is the Benefits Science Technologies (BST) website. This is not a public website, and thus accessing the data harbored on the website requires special authorization.
+* To protect client identity, all clients have been anonymized. 
