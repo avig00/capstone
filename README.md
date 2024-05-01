@@ -22,7 +22,7 @@ seaborn
 itertools
 ```
 ## Readability
-Docstrings and comments have been included in the code script to explain the functions and key steps used to produce the results. 
+Docstrings and comments have been included in the notebook to explain the functions and key steps used to produce the results. 
 
 ## Note about the Data Source
 The source of the data used for this project is the Benefits Science Technologies (BST) website. This is not a public website, and thus accessing the data harbored on the website requires special authorization.
